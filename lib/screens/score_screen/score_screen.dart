@@ -6,7 +6,6 @@ import 'package:flutter_svg/svg.dart';
 import 'package:nerd_quizz_app/screens/login_screen.dart/login_screen.dart';
 
 import '../quiz/components/buttons.dart';
-import '../quiz/quiz_screen.dart';
 
 class ScoreScreen extends StatelessWidget {
   @override

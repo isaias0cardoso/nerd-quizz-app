@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:nerd_quizz_app/models/Questions.dart';
-import 'package:nerd_quizz_app/models/questions.dart';
 
 import '../../../constants.dart';
 import '../../../controllers/question_controller.dart';

@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-
 import '../../../constants.dart';
-import '../quiz_screen.dart';
 
 class PrimaryButton extends StatelessWidget {
   final String text;
