@@ -1,6 +1,6 @@
 # Nerd Quizz App
 
-![Quiz App Logo](https://example.com/quiz_app_logo.png)
+![Quiz App Logo](https://github.com/isaias0cardoso/nerd-quizz-app/blob/main/Nerd%20Quizz.png)
 
 A Flutter application for creating and taking quizzes.
 
@@ -56,5 +56,4 @@ Contributions to the Quiz App are welcome! To contribute, please follow these st
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-# nerd-quizz-app
 # nerd-quizz-app
