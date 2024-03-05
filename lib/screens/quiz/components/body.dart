@@ -36,7 +36,7 @@ class Body extends StatelessWidget {
                 child: Obx(
                   () => Text.rich(
                     TextSpan(
-                      text: 'Question ${_questionController.questionNumber}',
+                      text: 'Questão ${_questionController.questionNumber}',
                       style: Theme.of(context)
                           .textTheme
                           .headlineMedium
