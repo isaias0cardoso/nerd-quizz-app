@@ -1,6 +1,6 @@
 # Nerd Quizz App
 
-![Quiz App Logo]([https://example.com/quiz_app_logo.png](https://github.com/isaias0cardoso/nerd-quizz-app/blob/main/Nerd%20Quizz.png))
+![Quiz App Logo](https://github.com/isaias0cardoso/nerd-quizz-app/blob/main/Nerd%20Quizz.png)
 
 A Flutter application for creating and taking quizzes.
 
